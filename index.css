@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    background: linear-gradient(90deg, rgba(255,6,197,1) 3%, rgba(79,62,79,1) 100%, rgba(0,212,255,1) 100%);
+    font-family: 'Chango', cursive;
+
+    font-weight: 900;
+
+}
+h1 {
+    text-align: center;
+    font-size: 50px;
+    color: blue;
+}
+.silvestr {
+    height:100px;
+    float: left;
+    margin: 10px;
+    padding-top: 110px;
+    /*border: 2px solid blue;*/
+}
+.text {
+    height:100px;
+    float: left;
+    margin: 10px;
+    padding-top: 300px;
+    color: white;
+    /*border: 2px solid blue;*/
+}
+.container {
+    margin-left: 120px;
+}
